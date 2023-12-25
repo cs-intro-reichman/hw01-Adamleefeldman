@@ -6,7 +6,7 @@ public class AddTwo {
 		int num2 = Integer.parseInt(args[1]);
 		int sum = num1 + num2;
 
-		System.out.println(num1 + "+" + num2 + "=" + sum);
+		System.out.println(num1 + " + " + num2 + " = " + sum);
 		
 	}
 }
